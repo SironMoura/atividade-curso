@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Tecnologia em Sistemas para Internet",
+    "sigla": "TSI",
+    "descricao": "O curso de Tecnologia em Sistemas para Internet na modalidade EAD foi pensado no intuito de formar profissionais para o mundo do trabalho.",
+    "coordenador": "Joice"
+  },
+  {
+    "id": 2,
+    "nome": "Bacharelado em Sistemas de Informação",
+    "sigla": "BSI",
+    "descricao": "O Curso de Sistemas de Informação tem seu foco voltado para a formação do profissional que irá desenvolver ou gerenciar sistemas aplicativos.",
+    "coordenador": "Aujor"
+  },
+  {
+    "id": 3,
+    "nome": "Bacharelado em Agronomia",
+    "sigla": "AGRO",
+    "descricao": "O curso de Bacharel em Agronomia tem por objetivo formar Engenheiros Agrônomos.",
+    "coordenador": "Alan"
+  }
+]

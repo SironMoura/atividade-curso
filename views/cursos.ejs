@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cursos</title>
+</head>
+<body>
+
+<h1>Lista de Cursos</h1>
+
+<ul>
+
+<% cursos.forEach(curso => { %>
+
+<li>
+
+<strong><%= curso.nome %></strong>
+
+(<%= curso.sigla %>)
+
+<a href="/curso/<%= curso.id %>">
+Detalhes
+</a>
+
+</li>
+
+<% }) %>
+
+</ul>
+
+</body>
+</html>
